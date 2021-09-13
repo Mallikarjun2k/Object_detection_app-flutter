@@ -35,7 +35,7 @@ class Myapp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               ButtonTheme(
-                minWidth: 170,
+                minWidth: 160,
                 child: RaisedButton(
                   child: Text("Detect in Image"),
                   onPressed: () {
